@@ -1,7 +1,10 @@
 {
   "name": "chasingdream",
   "version": "1.0.1",
-  "description": "``` node node.js  构建项目 ```",
+  "description": "基于node的脚手架工具",
+  "bin": {
+    "okii": "index.js"
+  },
   "main": "index.js",
   "dependencies": {
     "chalk": "^2.4.1",
