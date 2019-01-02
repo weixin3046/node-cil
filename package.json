@@ -15,18 +15,6 @@
     "log-symbols": "^2.2.0",
     "ora": "^3.0.0"
   },
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/weixin3046/node-cil.git"
-  },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/weixin3046/node-cil/issues"
-  },
-  "homepage": "https://github.com/weixin3046/node-cil#readme"
 }
