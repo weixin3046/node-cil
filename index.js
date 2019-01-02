@@ -11,7 +11,6 @@ program.version('1.0.0', '-v, --version')
     .command('init <name>')
     .action((name) => {
         if (!fs.existsSync(name)) {
-            console.log(name)
             inquirer.prompt([{
                     name: 'description',
                     message: '请输入项目描述'
