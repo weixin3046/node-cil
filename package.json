@@ -1,6 +1,6 @@
 {
   "name": "chasingdream",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "基于node的脚手架工具",
   "bin": {
     "okii": "index.js"
