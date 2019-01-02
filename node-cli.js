@@ -1,7 +1,7 @@
 //自动构建项目工具
 var projectData = {
     'name': 'ruoyan', //项目名称
-    'fileData': [{     
+    'fileData': [{
             'name': 'css',
             'type': 'dir'
         },
@@ -30,7 +30,7 @@ if (projectData.name) {
     //path          将创建的目录路径
     //mode          目录权限（读写权限），默认0777
     //callback      回调，传递异常参数err
-    fs.mkdirSync(projectData.name);  
+    fs.mkdirSync(projectData.name);
 
     var fileData = projectData.fileData;
 
