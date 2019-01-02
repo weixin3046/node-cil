@@ -1,6 +1,6 @@
 {
   "name": "chasingdream",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "``` node node.js  构建项目 ```",
   "main": "index.js",
   "dependencies": {
