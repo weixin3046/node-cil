@@ -1,1 +1,4 @@
-# node-cil
+# 运行
+```
+node node.js  构建项目
+```
