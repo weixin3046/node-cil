@@ -26,11 +26,11 @@ program.version('1.0.0', '-v, --version')
         if (!fs.existsSync(name)) {
             inquirer.prompt([{
                     name: 'description',
-                    message: '请输入项目描述'
+                    message: 'Project description'
                 },
                 {
                     name: 'author',
-                    message: '请输入作者名称'
+                    message: 'Author'
                 }
             ]).then((answers) => {
                 const spinner = ora('正在下载模板...');
