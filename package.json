@@ -24,7 +24,7 @@
     "url": "git+https://github.com/weixin3046/node-cil.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/weixin3046/node-cil/issues"
   },
