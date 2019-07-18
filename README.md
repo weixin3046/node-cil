@@ -8,6 +8,7 @@ npm install --global chasingdream
 okii init [name] 来初始化项目
 ```
 # 更新
+ 登录npm；输入命令npm login；
  npm version <update_type>进行修改，update_type 有三个参数，
  patch：这个是补丁的意思，补丁最合适；
  minor：这个是小修小改；
